@@ -4,28 +4,51 @@
   <i>Computer Engineering & Data Science student at Deusto · Bilbao</i>
 </p>
 
----
-
-### About me
-- Second-year double degree in **Computer Engineering & Data Science**
-- Into computer architecture, algorithms and data
-- Learning something new every semester and putting it here
-
-### What I work with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-283272?style=flat-square&logo=riscv&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-carrasco&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff8fab&text_color=6d6875" alt="Most used languages" />
+  Second-year double degree, learning something new every semester.<br>
+  I like computer architecture, algorithms and data, and I put what I make here.
 </p>
 
+<h3 align="center">What I work with</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/RISC--V_Assembly-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V Assembly" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+<h3 align="center">Currently studying</h3>
+
+<p align="center">
+  Computer architecture · Algorithms & data structures · Object-oriented Java
+</p>
+
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  <b>Tiny Garden</b> · a cozy pygame game with a wandering cat and a plant to water<br>
+  <sub>In progress. The link will go here once it's on GitHub.</sub>
+</p>
+
+<!--
+<h3 align="center">Get in touch</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-NAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+-->
+
 ---
 
-### Snake game (my contributions are the snack)
+<h3 align="center">Snake game</h3>
+
+<p align="center">
+  <sub>my contributions are the snack</sub>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marina-carrasco/marina-carrasco/snake-output/github-snake-dark.svg" />
@@ -34,10 +57,9 @@
   </picture>
 </p>
 
----
+<h3 align="center">Mini-game: pet the cat</h3>
 
-### Mini-game: pet the cat
-<h1 align="center"><!--CAT-->(=^･.･^=)<!--/CAT--></h1>
+<h3 align="center"><!--CAT-->(=^･.･^=)<!--/CAT--></h3>
 
 <p align="center">
   The cat is feeling <b><!--MOOD-->curious<!--/MOOD--></b><br>
@@ -49,7 +71,8 @@
 </p>
 
 <p align="center">
-  <sub>Click, then press "Submit new issue" and refresh in ~20 seconds. Reach 10, 25 and 50 pets to cheer it up! (needs a GitHub account)</sub>
+  <sub>Click, then press "Submit new issue" and refresh in ~20 seconds.<br>
+  Reach 10, 25 and 50 pets to cheer it up! (needs a GitHub account)</sub>
 </p>
 
 ---
