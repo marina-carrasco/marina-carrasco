@@ -19,6 +19,10 @@
 ![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-283272?style=flat-square&logo=riscv&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marina-carrasco&layout=compact&hide_border=true&bg_color=fff0f5&title_color=ff8fab&text_color=6d6875" alt="Most used languages" />
+</p>
+
 ---
 
 ### Snake game (my contributions are the snack)
