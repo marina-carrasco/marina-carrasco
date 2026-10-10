@@ -1,27 +1,27 @@
-<h1 align="center">🌿 Hi, I'm Marina 🌿</h1>
+<h1 align="center">Hi, I'm Marina</h1>
 
 <p align="center">
-  <i>Computer Engineering & Data Science student at Deusto · Bilbao 🐾</i>
+  <i>Computer Engineering & Data Science student at Deusto · Bilbao</i>
 </p>
 
 ---
 
-### 🌸 About me
-- 🎓 Second-year double degree in **Computer Engineering & Data Science**
-- 💻 Into computer architecture, algorithms and data
-- 🔭 Learning something new every semester and putting it here
+### About me
+- Second-year double degree in **Computer Engineering & Data Science**
+- Into computer architecture, algorithms and data
+- Learning something new every semester and putting it here
 
-### 🍡 What I work with
-![Java](https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff8fab?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-ff8fab?style=flat-square&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-ff8fab?style=flat-square&logo=mysql&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-ff8fab?style=flat-square&logo=riscv&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-ff8fab?style=flat-square&logo=github&logoColor=white)
+### What I work with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V_Assembly-283272?style=flat-square&logo=riscv&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🐍 Snake game (my contributions are the snack)
+### Snake game (my contributions are the snack)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marina-carrasco/marina-carrasco/snake-output/github-snake-dark.svg" />
@@ -32,8 +32,8 @@
 
 ---
 
-### 🎮 Mini-game: pet the cat
-<h1 align="center"><!--CAT-->🐱<!--/CAT--></h1>
+### Mini-game: pet the cat
+<h1 align="center"><!--CAT-->(=^･.･^=)<!--/CAT--></h1>
 
 <p align="center">
   The cat is feeling <b><!--MOOD-->curious<!--/MOOD--></b><br>
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/marina-carrasco/marina-carrasco/issues/new?title=pet&body=Press+%22Submit+new+issue%22+to+pet+the+cat+%F0%9F%90%BE"><b>🐾 Pet the cat 🐾</b></a>
+  <a href="https://github.com/marina-carrasco/marina-carrasco/issues/new?title=pet&body=Press+%22Submit+new+issue%22+to+pet+the+cat"><b>Pet the cat</b></a>
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@
 </p>
 
 <p align="center">
-  <sub>🌳 This little tree grows with my GitHub activity</sub>
+  <sub>This little tree grows with my GitHub activity</sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/egorthinks/git-bonsai">
-    <img src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai" />
+    <img src="https://img.shields.io/badge/grown_with-git--bonsai-2ea44f" alt="grown with git-bonsai" />
   </a>
 </p>
